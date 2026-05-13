@@ -55,9 +55,9 @@ const dev = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaobragheroli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00F5FF&text_color=ffffff&icon_color=00FF88&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaobragheroli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00F5FF&text_color=ffffff&icon_color=00FF88&count_private=true&include_all_commits=true&cache_seconds=1800"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaobragheroli&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00F5FF&text_color=ffffff&langs_count=8&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaobragheroli&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=00F5FF&text_color=ffffff&langs_count=8&cache_seconds=1800"/>
 
 </div>
 
